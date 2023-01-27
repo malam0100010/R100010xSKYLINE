@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R100010xSKYLINE or Musad
-- 👀 I’m interested in C programming - partricularlly used in embedded systems 
+- 👀 I’m interested in C programming - that which is particularlly used in embedded systems 
 - 🌱 I’m currently learning developing a C program that enables Ceaser Cypers to be unencrypted
 - 📫 How to reach me malam010010@gmail.com
 
