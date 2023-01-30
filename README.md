@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R100010xSKYLINE or Musad
 - 👀 I’m interested in C programming - that of which is particularlly used in embedded systems 
-- 🌱 I’m currently learning developing a C programs as they relate to vectors in Calculus III
+- 🌱 I’m currently learning how to develop C programs as they relate to vectors in Calculus III
 - 📫 How to reach me malam010010@gmail.com
 
 <!---
